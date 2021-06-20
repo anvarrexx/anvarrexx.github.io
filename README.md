@@ -6,5 +6,5 @@
 
 [Урок 8](https://anvarrexx.github.io/lesson_8/src/ "Кликай") - Знакомство с сеткой BOOTSTRAP
 
-[Урок 9](https://anvarrexx.github.io/lesson_9/src/ "Кликай") - Сайт из урока №7, но с использованием BOOTSTRAP
+[Урок 9](https://anvarrexx.github.io/lesson_9/src/ "Кликай") - Сайт из урока 7, но с использованием BOOTSTRAP
 
