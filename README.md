@@ -2,4 +2,4 @@
 # Анвар Гиниятов
 Мои домашние задания
 
-[Урок 7](https://anvarrexx.github.io/lesson_7/src/ "") - Верстка первого сайта
+[Урок 7](https://anvarrexx.github.io/lesson_7/src/ "Кликай") - Верстка первого сайта
