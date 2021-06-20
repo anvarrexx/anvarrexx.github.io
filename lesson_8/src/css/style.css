@@ -1,0 +1,26 @@
+.name {
+	margin-top: 80px;
+/*	border: 2px solid red;
+*/}
+
+.features{
+	margin-top: 75px;
+	text-align: center;
+}
+
+.box {
+	margin-bottom: 110px;
+	margin-top: 0px;
+	height: 150px;
+	/*border: 2px solid red;*/
+}
+
+.col-lg-2 {
+	height:250px;
+/*	border: 2px solid red;
+*/}
+
+p {
+	margin-top: -100px;
+	/*border:2px solid red;*/
+}
