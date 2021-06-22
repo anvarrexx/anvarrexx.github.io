@@ -10,4 +10,4 @@
 
 [Урок 13](https://anvarrexx.github.io/lesson_13/src/ "Кликай") - Адаптивная верстка
 
-[Практика. Часть 1](https://anvarrexx.github.io/practice_part_1/src/ "Кликай") - Практика, создание шапки сайта
+[Практика. Часть 1](https://anvarrexx.github.io/practice_part_1/src/ "Кликай") - Практика, верстка шапки сайта
