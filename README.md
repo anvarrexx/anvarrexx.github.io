@@ -9,3 +9,5 @@
 [Урок 9](https://anvarrexx.github.io/lesson_9/src/ "Кликай") - Сайт из урока 7, но с использованием BOOTSTRAP
 
 [Урок 13](https://anvarrexx.github.io/lesson_13/src/ "Кликай") - Адаптивная верстка
+
+[Практика. Часть 1](https://anvarrexx.github.io/practice_part_1/src/ "Кликай") - Практика, создание шапки сайта
