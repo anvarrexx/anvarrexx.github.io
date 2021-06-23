@@ -11,3 +11,5 @@
 [Урок 13](https://anvarrexx.github.io/lesson_13/src/ "Кликай") - Адаптивная верстка
 
 [Практика. Часть 1](https://anvarrexx.github.io/practice_part_1/src/ "Кликай") - Практика, верстка шапки сайта
+
+[Урок 14](https://anvarrexx.github.io/lesson_14/src/ "Кликай") - Работа со шрифтами, подключение шрифтов
