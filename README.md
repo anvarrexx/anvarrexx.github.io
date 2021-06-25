@@ -15,3 +15,7 @@
 [Урок 14](https://anvarrexx.github.io/lesson_14/src/ "Кликай") - Работа со шрифтами, подключение шрифтов
 
 [Практика. Часть 2](https://anvarrexx.github.io/practice_part_2/src/ "Кликай") - Практика 2, верстка первого блока
+
+[Урок 15](https://anvarrexx.github.io/lesson_15/src/ "Кликай") - Псевдоклассы и псевдоэлементы, эффекты при наведении
+
+ 
