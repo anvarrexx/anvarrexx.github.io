@@ -1,0 +1,245 @@
+/*Fonts family*/
+
+@font-face {
+    font-family: 'ProximaNova_bold';
+    src: url('../fonts/ProximaNova-Bold.eot');
+    src: url('../fonts/ProximaNova-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-Bold.woff2') format('woff2'),
+        url('../fonts/ProximaNova-Bold.woff') format('woff'),
+        url('../fonts/ProximaNova-Bold.ttf') format('truetype'),
+        url('../fonts/ProximaNova-Bold.svg#ProximaNova-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ProximaNova_reg';
+    src: url('../fonts/ProximaNova-Regular.eot');
+    src: url('../fonts/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-Regular.woff2') format('woff2'),
+        url('../fonts/ProximaNova-Regular.woff') format('woff'),
+        url('../fonts/ProximaNova-Regular.ttf') format('truetype'),
+        url('../fonts/ProximaNova-Regular.svg#ProximaNova-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.reg() {
+	font-family: 'ProximaNova_reg', sans-serif;
+}
+
+.bold {
+	font-family: 'ProximaNova_bold', sans-serif;
+}
+
+
+/* Colors */
+@btn-color: #fcb303;
+@icon-color: #46b814;
+@text: #1a1820;
+@danger:#ff0000;
+@bg-lite:#f5f5f5;
+@border-input:#dddddd;
+
+/*Basic settings*/
+html {
+	font-size: 10px;
+}
+body {
+	.reg();
+}
+
+a {
+	&:hover {
+		text-decoration: none;
+	}
+}
+
+button, input, a {
+	&:focus {
+		outline: none;
+	}
+}
+
+.button {
+	border:none;
+	padding:1rem 2.7rem;
+	background-color: @btn-color;
+	font-size: 1.2rem;
+	color:white;
+	border-radius: 8px;
+	text-transform: uppercase;
+	transition: all 0.22s;
+	&:hover {
+		background-color: darken(@btn-color, 5%);
+	}
+}
+ 
+
+
+/*Typography*/
+section {
+	padding:10rem 0;
+}
+
+/*main*/
+.main {
+	padding: 3rem 0 5rem;
+	background: #fff url(../img/main-bg.png) center center no-repeat;
+	background-size: cover;	
+	&-content {
+		span:hover {
+			background-color: darken(@icon-color, 6%);
+		}
+		margin-top: 10rem;
+		h1 {
+			.bold();
+			margin-top: 0;
+			font-size: 4rem;
+			text-transform: uppercase;
+			line-height: 1.45;
+		}
+	}
+	&-subtitle {
+		font-size: 2.4rem;
+		margin-top: 5rem;
+	}
+	span {
+		margin-top: 5rem;
+		display: inline-block;
+		padding:2rem 4rem;
+		font-size: 1.8rem;
+		color: white;
+		text-align: center;
+		background-color: @icon-color;
+		strong {
+			font-size: 3rem;
+			.bold();
+		}
+		transition: all 0.2s;
+	}
+	&-trigger {
+		font-size: 2.2rem;
+		text-transform: uppercase;
+		.bold();
+		display: block;
+		margin-top: 3rem;
+	}
+	/*Главная форма*/
+	&-form {
+		background-color: white;
+		padding: 4rem 5rem;
+		text-align: center;
+		/*Заголовок формы*/
+		&-header {
+			font-size: 1.8rem;
+			strong {
+				font-size: 1.9rem;
+			}
+			margin-bottom: 4rem;
+		}
+		&-input {
+			display: block;
+			margin: 2rem 0;
+			width: 100%;
+			border:1px solid @border-input;
+			padding:1.7rem;
+		}
+		/*Подписи к полям*/
+		label {
+			position:absolute;
+			left: 50%;
+			transform: translateX(-50%) translateY(-50%);
+			padding: 0.5rem;	
+			background-color: white;
+		}
+		/*Кнопка отправить заявку*/
+		&-btn {
+			display: block;
+			 height: 5.5rem;
+			 width: 100%;
+			 font-size: 1.6rem;
+		}
+		/*Подпись под кнопкой*/
+		small {
+			display: block;
+			margin-top: 1.5rem;
+		}
+
+
+	}
+}
+
+.header {
+	height: 7rem;
+}
+
+.wrap {
+	display: table;
+	width: 100%;
+	height: 7rem;
+}
+
+.wrap-block {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: right;
+}
+
+
+.phone {
+	&-block {
+		text-align: right;	
+	}
+	&-link {
+	display: inline-block;
+	.bold();
+	color:@text;
+	font-size: 2rem;
+	height: 7rem;
+	line-height: 7rem;
+	}
+}
+
+@media(max-width: 991px) {
+	.main {
+		background-position: top right;
+		&-content {
+			margin-top: 4rem;
+		}
+	}
+	.main-title {
+		text-align: center;
+		padding-bottom: 3rem;
+	}
+}
+
+@media (max-width: 767px) {
+	.main {
+		background-position: top left;
+		&-content h1 {
+			margin-top: 8rem;
+		}
+		&-subtitle {
+			margin-top: 3rem;
+		}
+		span {
+			margin-top: 3rem;
+		}
+	}
+	
+	.header {
+		text-align: center;
+	}
+	.phone-block {
+		text-align: center;
+		margin-top: 3rem;
+	}
+	.wrap-block {
+		text-align: center;
+		padding-top: 4.5rem;
+	}
+	
+}
