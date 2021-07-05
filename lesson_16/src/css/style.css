@@ -1,0 +1,37 @@
+body {
+	height: 1100px;
+}
+
+
+
+
+.bg {
+	margin-top: -10px;
+	position: absolute;
+	width: 100%;
+	height: 800px;
+	background-color: #737780;
+}
+
+
+.fotorama {
+	width: 1000px;
+	margin:4rem auto;
+}
+
+h1 {
+	font-family: 'Zen Tokyo Zoo', cursive;
+	margin-top: 0;
+	padding:4rem;
+	display: block;
+	background-color: #b3b7c3;
+	text-align: center;
+}
+
+.bg-bottom {
+	position: absolute;
+	margin-top: 63rem;
+	width: 100%;
+	height: 400px;
+	background-color: #34353a;
+}
