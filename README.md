@@ -18,7 +18,7 @@
 
 [Урок 15](https://anvarrexx.github.io/lesson_15/src/ "Кликай") - Псевдоклассы и псевдоэлементы, эффекты при наведении
 
-[Практика. Часть 3](https://anvarrexx.github.io/practice_part_2/src/ "Кликай") - Практика 3, эффекты при наведении, адаптив под разные экраны
+[Практика. Часть 3](https://anvarrexx.github.io/practice_part_3/src/ "Кликай") - Практика 3, эффекты при наведении, адаптив под разные экраны
 
-[Урок 16](https://anvarrexx.github.io/lesson_6/src/ "Кликай") - Слайдеры для фотографий, fotorama
+[Урок 16](https://anvarrexx.github.io/lesson_16/src/ "Кликай") - Слайдеры для фотографий, fotorama
  
