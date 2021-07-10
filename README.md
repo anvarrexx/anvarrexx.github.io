@@ -23,3 +23,6 @@
 [Урок 16](https://anvarrexx.github.io/lesson_16/src/ "Кликай") - Слайдеры для фотографий, fotorama
 
 [Практика. Часть 4](https://anvarrexx.github.io/practice_part_4/src/ "Кликай") - Практика 4, оформление блока с преимуществами, работа со слайдерами
+
+[Урок 17](https://anvarrexx.github.io/lesson_17/src/ "Кликай") - Всплывающие окна, кнопка удалить файл
+
