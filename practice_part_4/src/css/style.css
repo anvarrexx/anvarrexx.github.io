@@ -217,6 +217,9 @@ section {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
+.two-btn {
+  display: none;
+}
 @media (max-width: 991px) {
   .main {
     background-position: top right;
