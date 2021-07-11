@@ -26,4 +26,4 @@
 
 [Урок 17](https://anvarrexx.github.io/lesson_17/src/ "Кликай") - Всплывающие окна, кнопка удалить файл
 
-[Практика. Часть 5](https://anvarrexx.github.io/practice_part_5/src/index.html "Кликай") - Практика 5, верстка всплывающего окна, привязка к кнопке
+[Практика. Часть 5](https://anvarrexx.github.io/practice_part_5/src/ "Кликай") - Практика 5, верстка всплывающего окна, привязка к кнопке
