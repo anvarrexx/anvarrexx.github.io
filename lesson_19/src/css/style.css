@@ -1,0 +1,155 @@
+body {
+	box-sizing: border-box;
+	background-image: url(../img/inflicted.png);
+}
+form {
+	width: 630px;
+	height: 444px;
+}
+
+
+
+.color-text {
+	padding-left: 25px;
+	height: 60px;
+	width: 480px;
+	display: block;
+	background: url(../img/backgroud-image.png);
+	color: white;
+	border:none;
+	border-radius: 5px;
+	outline:none;
+}
+
+.top-input {
+	margin-bottom: 30px;
+}
+
+.main-form {
+	padding: 70px 44px;
+	background-color:black;
+	border:1px solid #7dd7f4;
+	border-radius: 5px;
+}
+
+.form-border {
+	background-color: #03a2d6;
+	padding: 25px;
+	border-radius: 5px;
+	border: 1px solid #047ca0;
+}
+
+.nav {
+	padding-left: 30px;
+}
+
+.nav-tabs {
+	border-bottom: 0px solid white
+}
+
+
+.page-header {
+	color:  #fff; 
+	border-bottom: 5px solid #03a2d6;
+	padding: 1rem;
+}
+input::-moz-placeholder { color: white; }
+input::-webkit-input-placeholder {  color: white; }
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    
+    color: #fff;
+    cursor: default;
+    background-color: #03a2d6;
+    border: 1px solid #047ca0;
+    border-bottom-color: transparent;
+    
+    
+    text-align: center;
+    font-size: 15px;
+    border-bottom: none;
+    z-index: 99;
+}
+.main-form a {
+	display: inline-block;
+	margin-top: -15px;
+	margin-left: 25px;
+	color:red;
+	font-size: 12px;
+
+
+}
+
+.main-form a:hover {
+	text-decoration: none;
+}
+
+.main-form a:focus {
+	text-decoration: none;
+}
+
+.form {
+	margin-top: 5rem;
+}
+
+.form form {
+	position: relative;
+	left:50%;
+	transform: translateX(-50%);
+}
+
+.btn-login {
+	position: absolute;
+	display: inline-block;
+	width: 100px;
+	height: 30px;
+	background-image: url(../img/bg-button.png);
+	background-position: right bottom;
+	border:none;
+	color:white;
+	left:86%;
+	bottom:15%;
+}
+
+.reminder {
+	position:absolute;
+	margin-top: 24px;
+	display: inline-block;
+	margin-left: 24px;
+}
+
+label {
+	vertical-align: 2px;
+	display: inline-block;
+	margin-left: 4px;
+	color:#6f6d6d;
+	font-size: 12px;
+}
+
+.register {
+	color: black;
+}
+
+
+.login {
+	color:black;
+}
+
+.nav-tabs>li>a {
+	margin-right: 10px;
+	border-color: white;
+	background-color:white;
+}
+
+.btn-register {
+	position: absolute;
+	display: inline-block;
+	width: 150px;
+	height: 30px;
+	background-image: url(../img/bg-button.png);
+	background-position: bottom 5px right 25px;
+	border:none;
+	color:white;
+	left:80%;
+	bottom:15%;
+}
