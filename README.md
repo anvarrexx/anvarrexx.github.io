@@ -40,3 +40,4 @@
 
 [Урок 20](https://anvarrexx.github.io/lesson_20/src/ "Кликай") - видео-фон
 
+[Практика. Часть 8](https://anvarrexx.github.io/practice_part_8/src/ "Кликай") - Практика 8, доверстали блок с отзывами, адаптив
