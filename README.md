@@ -38,6 +38,8 @@
 
 [Практика. Часть 7](https://anvarrexx.github.io/practice_part_7/src/ "Кликай") - Практика 7, верстка блока с отзывами, настройка слайдеров
 
-[Урок 20](https://anvarrexx.github.io/lesson_20/src/ "Кликай") - видео-фон
+[Урок 20](https://anvarrexx.github.io/lesson_20/src/ "Кликай") - Видео-фон
 
 [Практика. Часть 8](https://anvarrexx.github.io/practice_part_8/src/ "Кликай") - Практика 8, доверстали блок с отзывами, адаптив
+
+[Урок 20](https://anvarrexx.github.io/lesson_20/src/ "Кликай") - Параллакс-эффекты, parallax.js, rellax.js
