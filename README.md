@@ -48,3 +48,6 @@
 
 [Урок 22](https://anvarrexx.github.io/lesson_22/src/ "Кликай") - Гео-карты, верстка макета дз
 
+[Практика. Часть 10](https://anvarrexx.github.io/practice_part_10/src/ "Кликай") - Практика 10, сверстали блок развеем опасения
+
+
