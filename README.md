@@ -43,3 +43,6 @@
 [Практика. Часть 8](https://anvarrexx.github.io/practice_part_8/src/ "Кликай") - Практика 8, доверстали блок с отзывами, адаптив
 
 [Урок 21](https://anvarrexx.github.io/lesson_21_hw/src/ "Кликай") - Параллакс-эффекты, parallax.js, rellax.js
+
+[Практика. Часть 9](https://anvarrexx.github.io/practice_part_9/src/ "Кликай") - Практика 9, сверстали блок схема работы и все включено
+
