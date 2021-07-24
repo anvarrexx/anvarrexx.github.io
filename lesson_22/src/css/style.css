@@ -1,0 +1,66 @@
+body {
+	background:url(../img/bg.jpg);
+}
+
+
+section {
+	margin-top: 15rem;
+	height: 523px;
+	background-color: #fff;
+}
+
+
+.contacts {
+	margin-top: -43rem;
+	padding:6rem 8rem;
+	text-align: center;
+	height: 430px;
+	background-color: #c60b0b;
+	color:white;
+}
+
+.contacts p {
+	margin-top: 2rem;
+	font-size: 1.8rem;
+}
+
+.contacts a {
+	display: inline-block;
+	margin-top: 2rem;
+	font-size: 1.8rem;
+	color: white;
+}
+
+.tpb {
+	margin-top: 2rem;
+	font-size: 1.4rem;
+	margin-left: -2rem;
+	font-weight: 600;
+}
+
+.logo {
+	margin-top: 1.6rem;
+}
+
+.tc {
+	font-size: 1.6rem;
+	color: #7a7a7a;
+}
+
+.tc-block {
+	margin-top: 2.5rem;
+	text-align: center;
+}
+
+.phone-number-block	{
+	margin-top: 1.6rem;
+	text-align-last: right;
+}
+
+.phone-number strong {
+	font-size: 2rem;
+}
+
+.phone-number {
+	font-size: 1.1rem;
+}
