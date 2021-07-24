@@ -46,3 +46,5 @@
 
 [Практика. Часть 9](https://anvarrexx.github.io/practice_part_9/src/ "Кликай") - Практика 9, сверстали блок схема работы и все включено
 
+[Урок 22](https://anvarrexx.github.io/lesson_22/src/ "Кликай") - Гео-карты, верстка макета дз
+
